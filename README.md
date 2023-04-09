@@ -1,6 +1,8 @@
 # HeathK
 
-A new Flutter fitness project.
+A Flutter fitness project.
+
+playStore Link:- https://play.google.com/store/apps/details?id=com.Aj.HeathK
 
 ![1](https://user-images.githubusercontent.com/56546673/198234179-ec4c0bc3-2cc4-47f5-ba4c-ee19b8e8d8f1.jpg)
 ![2](https://user-images.githubusercontent.com/56546673/198234204-7862ba8a-e60c-48d0-a58f-6af58591bb56.jpg)
